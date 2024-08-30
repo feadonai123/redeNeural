@@ -1,8 +1,8 @@
 ## Como Rodar?
 
-- 1) Baixar as bibliotecas utilizadas utilizando `pip install [LIB]`
+1) Baixar as bibliotecas utilizando `pip install [LIB]`
 
-- 2) Rodar comando: `python index3.py`
+2) Rodar comando: `python index3.py`
 
 ## Alterar parâmetros
 
