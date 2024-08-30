@@ -1,0 +1,8 @@
+Hidden Neurons: 30
+Learning Rate: 0.001
+Epochs: 5000
+Train Accuracy: 0.7272727272727273
+Train Error: 0.6082549801376488
+Test Accuracy: 0.7066666666666667
+
+
